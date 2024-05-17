@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Call Users API App</string>
+    <string name="username_and_email"><![CDATA[UserName & Email]]></string>
+    <string name="user_name">"User Name :  "</string>
+    <string name="email">"Email :  "</string>
+    <string name="user_information">User Information</string>
+    <string name="name">"Name : "</string>
+    <string name="address">"Address : "</string>
+    <string name="data_loading">data Loading…</string>
+    <string name="no_data_found">No Data Found</string>
+</resources>
